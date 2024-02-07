@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ai
 - 🌱 I’m currently learning about Ai
 - 💞️ I’m looking to collaborate on something, later on
-- 📫 How to reach me ... let me get back to you on that
+- 📫 I can be reached at monkeyvisco@gmail.com.
 
 <!---
 monkeyvisco/monkeyvisco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
